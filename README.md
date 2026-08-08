@@ -8,7 +8,9 @@
 
 ### Reference Cursor
 
-<video src="./assets/ref.mp4" alt="Reference Cursor" width="400"></video>
+<video controls width="400">
+  <source src="./assets/ref.mp4" type="video/webm" />
+</video>
 
 ### Links
 
