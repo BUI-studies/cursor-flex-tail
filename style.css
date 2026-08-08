@@ -1,0 +1,12 @@
+.tail {
+  position: absolute;
+
+  width: 10px;
+  height: 10px;
+
+  background: #f91;
+
+  transition:
+    top 0.1s,
+    left 0.1s;
+}
